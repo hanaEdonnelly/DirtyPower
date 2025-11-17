@@ -7,7 +7,8 @@ description:
 position: 2
 ---
 <div class="button-container">
-    <a href="mailto:email@gmail.com" class="button-inverse">Book Wildest Dreams</a>
+    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Book Us</a>
 </div>
+
 <br>
-Looking to have an enchanted wedding, party, or event? <a href="mailto:email@gmail.com">Contact us</a> now to secure a date.
+Looking for entertainment at your venue, wedding, party, or event? <a href="mailto:tannerbeanedirtypower@gmail.com">Contact us</a> now to secure a date.

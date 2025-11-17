@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-url: "wildestdreamstribute.com"
+url: ""
 baseurl: ""
 
 # THEME-SPECIFIC CONFIGURATION
-title: Wildest Dreams
-description: "The official website of Wildest Dreams (Charleston's unofficial Taylor tribute)"
+title: Tanner Beane & Dirty Power
+description: "The official website of Tanner Beane & Dirty Power"
 avatar: # Empty for no avatar in navbar
 favicon: #"assets/favicon.png"
 
 # Header and footer text
-header_text: "Wildest Dreams"
+header_text: "Tanner Beane & Dirty Power"
 header_feature_image: "assets/img/feature-img/stage.jpg"
 header_feature_image_responsive: true
 footer_text: 

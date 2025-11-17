@@ -5,6 +5,13 @@ permalink: /about/
 description: 
 position: 3
 ---
-Wildest Dreams is Charleston's unofficial Taylor Swift tribute band. We bring high-energy entertainment with a diverse mix of all eras of Taylor's music. 
+Tanner Beane & Dirty Power are a Charleston-based band who aim to provide unforgettable entertainment. Fronted by vocalist Tanner Beane, our group blends seasoned musicianship with electric stage presence.
 
-<!--{% include members.liquid %}-->
+We deliver a tailorable setlist that crosses generations and genres in order to give your guests the crowd-pleasers they know and love. 
+
+Our group prides ourselves on proffesionalism and being easy to work with. Whether you're planning a wedding, corporate event, bar night, or community celebration, we bring the same level of passion and energy to every stage.
+
+<br>
+## Our Lineup
+
+{% include members.liquid %}
