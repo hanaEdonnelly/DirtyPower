@@ -1,7 +1,7 @@
 ---
 title: Jamie Dyer
 position: Drums
-order: 
-feature-img:
+order: 2
+featureimg: /assets/img/members/jamie.jpg
 fact: 
 ---

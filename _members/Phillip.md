@@ -1,7 +1,7 @@
 ---
 title: Phillip Gerard
 position: Guitar, Vocals
-order: 
-feature-img:
+order: 2
+featureimg:
 fact: 
 ---
