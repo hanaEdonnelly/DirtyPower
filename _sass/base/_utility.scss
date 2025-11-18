@@ -52,7 +52,9 @@
 // Buttons
 .button {
   border-radius: 0.3em;
-  border: 1px solid;
+  border: 1px solid var(--link);
+  background-color: var(--background);
+  color: var(--link);
   display: inline-block;
   margin: 1em 0;
   padding: 0.5em 0.75em;
@@ -65,10 +67,10 @@ a.button {
 .button-link {
   &:hover {
     background: var(--link);
-    border: 1px solid var(--link);
-    color: var(--text-inverse);
+    color: var(--base07);
     text-decoration: none;
     filter: none;
+    border: 1px solid var(--base07)
   }
 }
 
@@ -79,6 +81,7 @@ a.button {
   text-align: center;
   border: 1px solid var(--link);
   margin: .5em;
+  border: 1px solid var(--link);
 }
 
 .body-link {
