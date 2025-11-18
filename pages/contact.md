@@ -11,7 +11,7 @@ position: 2
 </div>
 
 <br>
-<i><b>Modern Country Rock • Southern Roots • Electric Stage Presence</b></i>
+<i><b><p style="text-align: center;">Modern Country Rock • Southern Roots • Electric Stage Presence</p></b></i>
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
