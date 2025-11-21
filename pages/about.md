@@ -6,7 +6,7 @@ description:
 position: 3
 ---
 <br>
-<i><b><p style="text-align: center;">Modern Country Rock • Southern Roots • Electric Stage Presence</p></b></i>
+<p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
 
 Tanner Beane & Dirty Power are a Charleston-based band who aim to provide unforgettable entertainment. Fronted by vocalist Tanner Beane, our band offers a tailorable setlist that spans generations and genres in order to give the audience the crowd-pleasers they know and love. 
 
