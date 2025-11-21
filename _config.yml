@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-url: ""
-baseurl: "/DirtyPower"
+url: "https://tb-dp.com"
+baseurl: ""
 
 # THEME-SPECIFIC CONFIGURATION
 title: Tanner Beane & Dirty Power
