@@ -1,0 +1,16 @@
+name: Republish
+
+on: 
+  schedule:
+    - cron : '1 03 * * *' #run at 3am daily
+  jobs: 
+    refresh:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Trigger Github Pages rebuild
+          run: |
+            curl --fail --request POST \
+            --url https://api.github.com/repos/hanaedonnelly/DirtyPower/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+          env:
+            USER_TOKEN: $
