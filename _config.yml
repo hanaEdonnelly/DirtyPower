@@ -9,8 +9,8 @@ avatar: # Empty for no avatar in navbar
 favicon: "assets/favicon.png"
 
 # Header and footer text
-header_text: "Tanner Beane & Dirty Power"
-header_feature_image: "assets/img/feature-img/stage.jpg"
+header_text: "Modern Country Rock • Southern Roots • Electric Stage Presence"
+header_feature_image: "assets/img/feature-img/logo-banner.png"
 header_feature_image_responsive: true
 footer_text: 
   Created by <a href='https://hana.gallery'>Hana Donnelly</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>
