@@ -1,16 +1,39 @@
 name: Republish
 
-on: 
+# Trigger automatically daily AND allow manual triggering
+on:
   schedule:
-    - cron : '1 03 * * *' #run at 3am daily
-  jobs: 
-    refresh:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Trigger Github Pages rebuild
-          run: |
-            curl --fail --request POST \
-            --url https://api.github.com/repos/hanaedonnelly/DirtyPower/pages/builds \
-            --header "Authorization: Bearer $USER_TOKEN"
-          env:
-            USER_TOKEN: $
+    - cron: '0 03 * * *' # 3:00 AM daily
+  workflow_dispatch:
+
+jobs:
+  build-and-republish:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Ruby (needed for Jekyll)
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2 
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      # Step 4: Build the Jekyll site
+      - name: Build site
+        run: bundle exec jekyll build
+
+      # Step 5: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
