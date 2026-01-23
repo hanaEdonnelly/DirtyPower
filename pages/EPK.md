@@ -78,4 +78,7 @@ Available upon request:
 <br>
 
 ## Booking contact
-<p><a href="mailto:tannerbeanedirtypower@gmail.com">Tannerbeanedirtypower@gmail.com</a> or reach out to us through our social channels
+<div class="button-container">
+    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
+</div>
+<p><strong><a href="mailto:tannerbeanedirtypower@gmail.com">Tannerbeanedirtypower@gmail.com</a></strong> or reach out to us through our social channels
