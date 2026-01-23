@@ -16,6 +16,8 @@ position: 2
 <br>
 <p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
 
+Charleston's Tanner Beane & Dirty Power bring electric country music entertainment to any venue, event, or festival lineup. The band's high energy shows transform spaces into all-night parties full of dancing and singing. 
+
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
 <br>
