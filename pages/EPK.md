@@ -15,7 +15,7 @@ position: 2
 
 <div class="posts">
     <div class="post-teaser">
-        <iframe width="100%" height="315" src="https://youtu.be/hY7iSg4BP7Y?si=zpGp0sNAOuYCyEsd?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/hY7iSg4BP7Y?si=zpGp0sNAOuYCyEsd?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -41,8 +41,7 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 </div>
 
 ## Why book Dirty Power?
-### High-energy modern country rock
-A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals. We have something for every audience.
+<h3>High-energy modern country rock</h3> - A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals. We have something for every audience.
 
 ### Powerful vocals &amp; tight musicianship
 Professional sound with a polished, cohesive band that performs with passion and precision.
@@ -82,3 +81,4 @@ Available upon request:
 <div class="button-container">
     <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
 </div>
+
