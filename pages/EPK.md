@@ -6,9 +6,6 @@ tags: [Page]
 description: 
 position: 2
 ---
-<div class="button-container">
-    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
-</div>
 
 <div class="posts">
     <div class="post-teaser">
@@ -22,6 +19,9 @@ position: 2
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
 <br>
+<div class="button-container">
+    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
+</div>
 
 ## Why book Dirty Power?
 ### High-energy modern country rock
