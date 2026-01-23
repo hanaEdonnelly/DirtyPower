@@ -13,6 +13,17 @@ position: 2
     </div>
 </div>
 
+<div class="posts">
+    <div class="post-teaser">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/DVzgtRIp5hk?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="posts">
+    <div class="post-teaser">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/0bVlb2J9v4s?si=E2Uq3xfmkGIecUSL?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
 <br>
 <p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
 
