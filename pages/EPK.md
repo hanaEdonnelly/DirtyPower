@@ -16,7 +16,11 @@ position: 2
 <br>
 <p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
 
-Charleston's Tanner Beane & Dirty Power bring electric country music entertainment to any venue, event, or festival lineup. The band's high energy shows transform spaces into all-night parties full of dancing and singing. 
+Charleston's Tanner Beane & Dirty Power bring electric country music entertainment to any venue, event, or festival lineup. The band's high-energy shows transform spaces into all-night parties full of dancing and sing-alongs. With a setlist inspired by hot Carolina summer nights, Tanner Beane & Dirty Power blend country favorites from the 90s to today's hits. 
+
+Fronted by singer and guitarist Tanner Beane and backed by Philip Gerard (guitar & vocals), Jamie Dyer (drums), and Hana Donnelly (bass), the band also showcases original music at every show, giving audiences a taste of what makes Tanner Beane a rising country artist.
+
+Tanner Beane & Dirty Power are a full-package act, providing all necessary equipment to make setup easy for venues and events. With experience in professional sound production and live entertainment, the band is reliable, polished, and easy to work with.
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
