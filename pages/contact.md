@@ -7,7 +7,10 @@ description:
 position: 2
 ---
 <div class="button-container">
-    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
+    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Email Us</a>
+</div>
+<div class="button-container">
+    <a href="tel:9088928721" class="button-inverse">Call Us</a>
 </div>
 
 <br>

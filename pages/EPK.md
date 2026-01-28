@@ -37,7 +37,10 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 <br>
 <br>
 <div class="button-container">
-    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
+    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Email Us</a>
+</div>
+<div class="button-container">
+    <a href="tel:9088928721" class="button-inverse">Call Us</a>
 </div>
 
 ## Why book Dirty Power?
@@ -80,6 +83,8 @@ Available upon request:
 ## Booking contact
 <p><strong><a href="mailto:tannerbeanedirtypower@gmail.com">Tannerbeanedirtypower@gmail.com</a></strong> or reach out to us through our social channels.
 <div class="button-container">
-    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
+    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Email Us</a>
 </div>
-
+<div class="button-container">
+    <a href="tel:9088928721" class="button-inverse">Call Us</a>
+</div>
