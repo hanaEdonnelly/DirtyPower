@@ -43,6 +43,10 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
     <a href="tel:9088928721" class="button-inverse">Call Us</a>
 </div>
 
+<audio controls>
+ <source src="/assets/audio/My-Bad.mp3" type="audio/mpeg">
+</audio>
+
 ## Why book Dirty Power?
 ### High-energy modern country rock
 A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals. We have something for every audience.
