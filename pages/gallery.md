@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 SSpermalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "/assets/img/pexels"
 excluded: true
 tags: [Page]
 position: 4
