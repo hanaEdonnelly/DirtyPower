@@ -88,3 +88,5 @@ Available upon request:
 <div class="button-container">
     <a href="tel:9088928721" class="button-inverse">Call Us</a>
 </div>
+
+{% include gallery.html gallery_path=page.gallery_path %}
