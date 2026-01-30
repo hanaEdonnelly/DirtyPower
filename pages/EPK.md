@@ -44,14 +44,15 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 </div>
 
 ## Listen to our originals
-
-<audio title="My Bad" controls>
- <source src="/assets/audio/My-Bad.mp3" type="audio/mpeg">
+<label for="audio-mybad">My Bad</label>
+<audio id="audio-mybad" controls>
+  <source src="/assets/audio/My-Bad.mp3" type="audio/mpeg">
 </audio>
 
-<audio title="All Hope" controls>
- <source src="/assets/audio/All Hope.mp3">
- </audio>
+<label for="audio-allhope">All Hope</label>
+<audio id="audio-allhope" controls>
+  <source src="/assets/audio/All Hope.mp3" type="audio/mpeg">
+</audio>
 
 ## Why book Dirty Power?
 ### High-energy modern country rock
