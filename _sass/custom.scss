@@ -54,6 +54,17 @@
 
 }
 
+.testimonial-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 2rem;
+    width: 250px; // Adjust width as needed
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    margin: 25px auto;
+    text-align: center;
+}
+
 .button-container {
     width: 75% ;
     display: flex;

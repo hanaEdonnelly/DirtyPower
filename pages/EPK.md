@@ -35,6 +35,9 @@ Tanner Beane & Dirty Power are a full-package act, providing all necessary equip
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
+<div class="testimonial-card">
+    <p><strong>"Tanner Beane & Dirty Power consistently bring a great crowd and deliver high-energy, professional performances. They're easy to work with and a strong draw for our room."</strong><br>-Teddy Graddy, Montreux Bar & Grill</p>
+</div>
 <div class="button-container">
     <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Email Us</a>
 </div>
