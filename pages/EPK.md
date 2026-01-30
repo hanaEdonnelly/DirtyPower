@@ -27,7 +27,7 @@ position: 2
 <br>
 <p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
 
-Charleston's Tanner Beane & Dirty Power bring electric country music entertainment to any venue, event, or festival lineup. The band's high-energy shows transform spaces into all-night parties full of dancing and sing-alongs. With a setlist inspired by hot Carolina summer nights, Tanner Beane & Dirty Power blend country favorites from the 90s to today's hits. 
+Charleston's Tanner Beane & Dirty Power deliver high-energy modern country shows that turn bars, festivals, and events into all night sing-alongs. Blending country classics, today's hits, and Dirty Power originals, the band brings a crowd-pleasing mix inspired by hot Carolina summer nights.
 
 Fronted by singer and guitarist Tanner Beane and backed by Philip Gerard (guitar & vocals), Jamie Dyer (drums), and Hana Donnelly (bass), the band also showcases original music at every show, giving audiences a taste of what makes Tanner Beane a rising country artist.
 
@@ -35,13 +35,13 @@ Tanner Beane & Dirty Power are a full-package act, providing all necessary equip
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
-<br>
 <div class="button-container">
     <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Email Us</a>
 </div>
 <div class="button-container">
     <a href="tel:9088928721" class="button-inverse">Call Us</a>
 </div>
+<br>
 
 ## Listen to our originals
 <label for="audio-mybad">My Bad</label>
@@ -55,25 +55,20 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 </audio>
 
 ## Why book Dirty Power?
-### High-energy modern country rock
-A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals. We have something for every audience.
+* **High-energy modern country** – A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals.
 
-### Powerful vocals &amp; tight musicianship
-Professional sound with a polished, cohesive band that performs with passion and precision.
+* **Powerful vocals & tight musicianship** – Polished, professional sound with a cohesive band that performs with passion and precision.
 
-### Proven Live Experience
-Our clips show exactly what you get: real Southern electricity and full-room engagement.
+* **Proven live experience** – Our clips show exactly what you get: real Southern electricity and full-room engagement.
 
-### A show customized for you
-Dirty Power reads the room adjusting setlist, pacing, and energy for bars, fairs, weddings, corporate events, and everything in between.
+* **A show customized for you** – Dirty Power reads the room, adjusting setlist, pacing, and energy for all kinds of crowds.
 
-### Professional gear & easy setup
-Electric stage presence, professional equipment, punctual load-in, and smooth communication before, during, and after the event.
+* **Professional gear & easy setup** – Electric stage presence, professional equipment, punctual load-in, and smooth communication before, during, and after the event.
 <br>
 <br>
 
 ## What we provide
-* Full-band 60-180 minute live performance
+* 60-180 minute live performance
 * Curated setlist for your audience
 * Sound check & setup
 * Break music 
