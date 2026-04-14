@@ -10,7 +10,7 @@ description:
             background-image: url('{{ image | join: '.' }}');
         }
         {% if site.header_feature_image_responsive %}
-            @media screen and (max-width: 768px) {
+            @media screen and (max-width: 1024px) {
                 .call-out_img {
                     background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image }}');
                 }
