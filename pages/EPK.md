@@ -54,6 +54,11 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
   <source src="/assets/audio/My-Bad.mp3" type="audio/mpeg">
 </audio>-->
 
+<label for="audio-causin">Causin' All The Noise</label>
+<audio id="audio-causin" controls>
+  <source src="/assets/audio/Causin All The Noise.mp3" type="audio/mpeg">
+</audio>
+
 <label for="audio-allhope">All Hope</label>
 <audio id="audio-allhope" controls>
   <source src="/assets/audio/All Hope.mp3" type="audio/mpeg">
