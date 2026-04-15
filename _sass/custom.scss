@@ -106,9 +106,9 @@ audio {
 
 /* Show logo instead of text on mobile */
 @media screen and (max-width: 768px) {
-  .call-out_img {
+  /*.call-out_img {
     background-image: none;
-  }
+  }*/
   
   .desktop-title {
     display: none;
@@ -118,14 +118,14 @@ audio {
     display: inline-block;
   }
 
-  .hero-title {
+  /*.hero-title {
     background: none;
   }
 
   .call-out.call-out_img {
     background-color: #000;
     padding: 0;
-  }
+  }*/
 }
 
 /* Extra small screens */
