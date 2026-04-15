@@ -10,7 +10,7 @@ favicon: "assets/favicon.png"
 
 # Header and footer text
 header_text: "Modern Country Rock • Southern Roots • Electric Stage Presence"
-header_feature_image: /assets/img/feature-img/IMG_4041.JPG
+header_feature_image: /assets/img/feature-img/IMG_4101.jpg
 header_feature_image_responsive: true
 footer_text: 
   Created by <a href='https://hana.gallery'>Hana Donnelly</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>
