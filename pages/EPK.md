@@ -118,4 +118,4 @@ Available upon request:
     </div>
 </div>
 
-<img src="/assets/img/pexels/IMG_4042.JPG" alt="Tanner beane and Dirty Power on stage">
+<img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show.">
