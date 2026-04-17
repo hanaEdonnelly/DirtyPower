@@ -85,6 +85,14 @@ header {
 }
 
 /* --- Feature image --- */
+.feature-image header {
+  color: var(--text-inverse);
+  margin-bottom: 0;
+  padding: 3.6% $padding-large;
+  background-size: cover;
+  background-position: top;
+}
+
 .feature-image {
   padding: 0;
 
@@ -97,10 +105,9 @@ header {
   }
 
   header {
-    color: var(--header-text);
+    color: var(--text-inverse);
     margin-bottom: 0;
-    padding: 3.6% $padding-large;
-
+    padding: 3.6% $padding-large;    
     .meta {
       color: var(--header-text);
       filter: opacity(0.7);
@@ -122,7 +129,7 @@ header {
   }
 }
 
-/*-- feature-image Responsive scrolling --*/
+/*-- feature-image Responsive scrolling --
 .feature-image header {
   @media screen and (max-width: $break) {
     padding: $padding-large*1.5 $padding-small;
@@ -139,7 +146,7 @@ header {
   @media screen and (max-width: $sm-break) {
     background-size: 400% auto;
   }
-}
+}*/
 
 .post-content {
   h1 { color: var(--h1); }

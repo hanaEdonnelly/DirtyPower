@@ -5,7 +5,7 @@ permalink: /epk/
 tags: [Page]
 description: 
 position: 2
-feature-img: "/assets/img/feature-img/1WJ.jpg"
+feature-img: "/assets/img/feature-img/IMG_4042.JPG"
 ---
 
 <div class="posts">
