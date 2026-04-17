@@ -37,15 +37,15 @@ Fronted by singer and guitarist Tanner Beane and backed by Philip Gerard (guitar
 Tanner Beane & Dirty Power are a full-package act, providing all necessary equipment to make setup easy for venues and events. With experience in professional sound production and live entertainment, the band is reliable, polished, and easy to work with.
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
-<br>
-<div class="testimonial-card">
-    <p><strong>"Tanner Beane & Dirty Power consistently bring a great crowd and deliver high-energy, professional performances. They're easy to work with and a strong draw for our room."</strong><br>-Trey Gaddy, Montreux Bar & Grill</p>
-</div>
 <div class="button-container">
     <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Email Us</a>
 </div>
 <div class="button-container">
     <a href="tel:9088928721" class="button-inverse">Call Us</a>
+</div>
+<br>
+<div class="testimonial-card">
+    <p><strong>"Tanner Beane & Dirty Power consistently bring a great crowd and deliver high-energy, professional performances. They're easy to work with and a strong draw for our room."</strong><br>-Trey Gaddy, Montreux Bar & Grill</p>
 </div>
 <br>
 
@@ -66,15 +66,15 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 </audio>
 
 ## Why book Dirty Power?
-* **High-energy modern country** – A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals.
+* **High-energy modern country:** A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals.
 
-* **Powerful vocals & tight musicianship** – Polished, professional sound with a cohesive band that performs with passion and precision.
+* **Powerful vocals & tight musicianship:** Polished, professional sound with a cohesive band that performs with passion and precision.
 
-* **Proven live experience** – Our clips show exactly what you get: real Southern electricity and full-room engagement.
+* **Proven live experience:** Our clips show exactly what you get: real Southern electricity and full-room engagement.
 
-* **A show customized for you** – Dirty Power reads the room, adjusting setlist, pacing, and energy for all kinds of crowds.
+* **A show customized for you:** Dirty Power reads the room, adjusting setlist, pacing, and energy for all kinds of crowds.
 
-* **Professional gear & easy setup** – Electric stage presence, professional equipment, punctual load-in, and smooth communication before, during, and after the event.
+* **Professional gear & easy setup:** Electric stage presence, professional equipment, punctual load-in, and smooth communication before, during, and after the event.
 <br>
 <br>
 
