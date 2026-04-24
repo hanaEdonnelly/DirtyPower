@@ -8,6 +8,12 @@ position: 5
 ---
 <div class="posts">
     <div class="post-teaser">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/ReywyR8Rba8?si=Qsml73Qu0GpoYb00?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="posts">
+    <div class="post-teaser">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/k-XPgBtZZLU?si=TA-TgsBXBZIfl2iQ?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
@@ -24,3 +30,9 @@ position: 5
     </div>
 </div>
 
+<!-- The Climb 2026 -->
+<div class="posts">
+    <div class="post-teaser">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/k3vlJTAfdSM?si=Xu_HXlP3qzQXAKIe?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
