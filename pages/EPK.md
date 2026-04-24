@@ -112,4 +112,4 @@ Available upon request:
     </div>
 </div>
 
-<img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show.">--?
+<img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show.">-->
