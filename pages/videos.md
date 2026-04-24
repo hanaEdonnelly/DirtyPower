@@ -4,7 +4,7 @@ title: Videos
 permalink: /videos/
 tags: [Page]
 description: 
-position: 
+position: 5
 ---
 <div class="posts">
     <div class="post-teaser">

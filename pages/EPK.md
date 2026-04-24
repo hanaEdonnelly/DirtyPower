@@ -101,11 +101,11 @@ Available upon request:
 </div>
 
 
-<div class="posts">
+<!--<div class="posts">
     <div class="post-teaser">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/ReywyR8Rba8?si=b3CjnBpHTRPLbIoj?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
-</div>
+</div>-->
 
 <!--<div class="posts">
     <div class="post-teaser">

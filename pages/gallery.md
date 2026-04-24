@@ -5,7 +5,7 @@ SSpermalink: /gallery/
 gallery_path: "/assets/img/pexels"
 excluded: true
 tags: [Page]
-position: 4
+position: 6
 ---
 <div class="posts">
     <div class="post-teaser">
