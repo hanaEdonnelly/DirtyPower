@@ -77,7 +77,7 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 
 ## For venues & event planners
 <div class="button-container">
-    <a href="/gallery/" class="button-inverse">Photo Gallery</a>
+    <a href="/pages/gallery/" class="button-inverse">Photo Gallery</a>
 </div>
 <div class="button-container">
     <a href="/videos/" class="button-inverse">Video Gallery</a>
