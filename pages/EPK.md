@@ -75,7 +75,13 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 <br>
 <br>
 
-## For venues & event planners
+## For venues & event planners\
+<div class="button-container">
+    <a href="/gallery/" class="button-inverse">Photo Gallery</a>
+</div>
+<div class="button-container">
+    <a href="/videos/" class="button-inverse">Video Gallery</a>
+</div>
 Available upon request:
 * Stage plot & input list
 * Technical rider
