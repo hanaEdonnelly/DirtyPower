@@ -86,7 +86,6 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 Available upon request:
 * Stage plot & input list
 * Technical rider
-* EPK
 * Promotional photos, videos, and other media
 <br>
 <br>
@@ -99,7 +98,9 @@ Available upon request:
 <div class="button-container">
     <a href="tel:9088928721" class="button-inverse">Call Us</a>
 </div>
-
+<div class="button-container">
+    <a href="sms:9088928721" class="button-inverse">Text Us</a>
+</div>
 
 <!--<div class="posts">
     <div class="post-teaser">
