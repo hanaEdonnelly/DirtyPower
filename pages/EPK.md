@@ -17,11 +17,11 @@ feature-img: "/assets/img/feature-img/IMG_4042.JPG"
 <br>
 <p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
 
-Charleston's Tanner Beane & Dirty Power deliver high-energy modern country shows that turn bars, festivals, and events into all night sing-alongs. Blending country classics, today's hits, and Dirty Power originals, the band brings a crowd-pleasing mix inspired by hot Carolina summer nights.
+Charleston's Tanner Beane & Dirty Power deliver high-energy entertainment that turns bars, events, and  weddings into all night sing-alongs. Blending country and rock classics, today's hits, and Dirty Power originals, the band brings a crowd-pleasing mix inspired by Carolina summer nights.
 
 Fronted by singer and guitarist Tanner Beane and backed by Philip Gerard (guitar & vocals), Jamie Dyer (drums), and Hana Donnelly (bass), the band also showcases original music at every show, giving audiences a taste of what makes Tanner Beane a rising country artist.
 
-Tanner Beane & Dirty Power are a full-package act, providing all necessary equipment to make setup easy for venues and events. With experience in professional sound production and live entertainment, the band is reliable, polished, and easy to work with.
+Tanner Beane & Dirty Power are a full-package act that provides all necessary equipment to make setup easy for venues and events. With experience in professional sound production and live entertainment, the band is reliable, polished, and easy to work with.
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <div class="button-container">
@@ -75,18 +75,19 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 <br>
 <br>
 
-## For venues & event planners\
+## For venues & event planners
 <div class="button-container">
     <a href="/gallery/" class="button-inverse">Photo Gallery</a>
 </div>
 <div class="button-container">
     <a href="/videos/" class="button-inverse">Video Gallery</a>
 </div>
+<br>
 Available upon request:
 * Stage plot & input list
 * Technical rider
 * EPK
-* Promotional photos & videos
+* Promotional photos, videos, and other media
 <br>
 <br>
 
