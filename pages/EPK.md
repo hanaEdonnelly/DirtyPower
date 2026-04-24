@@ -3,7 +3,7 @@ layout: page
 title: EPK
 permalink: /epk/
 tags: [Page]
-description: 
+description: Charleston's country party band - Tanner Beane and Dirty Power. Weddings, venues, events, bars, and more! Eletronic Press Kit.
 position: 2
 feature-img: "/assets/img/feature-img/IMG_4042.JPG"
 ---
@@ -13,19 +13,6 @@ feature-img: "/assets/img/feature-img/IMG_4042.JPG"
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/DVzgtRIp5hk?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-
-<!--<div class="posts">
-    <div class="post-teaser">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/k-XPgBtZZLU?si=TA-TgsBXBZIfl2iQ?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
-    </div>
-</div>
-
-<div class="posts">
-    <div class="post-teaser">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/hY7iSg4BP7Y?si=zpGp0sNAOuYCyEsd?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
-    </div>
-</div>-->
-
 
 <br>
 <p style="text-align: center; font-weight: bold; font-style: italic;">Modern Country Rock • Southern Roots • Electric Stage Presence</p>
@@ -117,6 +104,6 @@ Available upon request:
     <div class="post-teaser">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/0bVlb2J9v4s?si=E2Uq3xfmkGIecUSL?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
-</div>-->
+</div>
 
-<img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show.">
+<img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show.">--?
