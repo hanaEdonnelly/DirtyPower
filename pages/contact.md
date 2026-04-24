@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 tags: [Page]
-description: 
+description: "Call, text, or email Tanner Beane and Dirty Power to entertain at your wedding, venue, or event."
 position: 2
 ---
 <div class="button-container">

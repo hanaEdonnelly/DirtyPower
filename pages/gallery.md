@@ -6,6 +6,7 @@ gallery_path: "/assets/img/pexels"
 excluded: true
 tags: [Page]
 position: 6
+description: "Photos of Tanner Beane and Dirty Power"
 ---
 <!--<div class="posts">
     <div class="post-teaser">

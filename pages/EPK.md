@@ -3,7 +3,7 @@ layout: page
 title: EPK
 permalink: /epk/
 tags: [Page]
-description: Charleston's country party band - Tanner Beane and Dirty Power. Weddings, venues, events, bars, and more! Eletronic Press Kit.
+description: "Charleston's country party band. Your event deserves entertainment that delivers. Tanner Beane & Dirty Power bring the party to your event."
 position: 2
 feature-img: "/assets/img/feature-img/IMG_4042.JPG"
 ---

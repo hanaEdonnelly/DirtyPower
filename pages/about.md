@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: 
+description: "Learn more about Charleston's Tanner Beane and Dirty Power."
 position: 3
 ---
 <img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show."><br>
