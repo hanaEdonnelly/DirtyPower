@@ -46,11 +46,17 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 <br>
 
 ## For venues & event planners
+<div class="button-container">
+    <a href="/pages/gallery.html" class="button-inverse">Photo Gallery</a>
+</div>
+<div class="button-container">
+    <a href="/videos/" class="button-inverse">Video Gallery</a>
+</div>
+<br>
 Available upon request:
 * Stage plot & input list
 * Technical rider
-* EPK
-* Promotional photos & videos
+* Promotional photos, videos, and other media
 <br>
 <br>
 
