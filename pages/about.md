@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: "Learn more about Charleston's Tanner Beane and Dirty Power."
+description: "Charleston's Tanner Beane and Dirty Power provide high-energy country music to your event, wedding, or party."
 position: 3
 ---
 <img src="/assets/img/pexels/1WJ.jpg" alt="Tanner Beane and Dirty Power sit on a green room couch pre-show."><br>
