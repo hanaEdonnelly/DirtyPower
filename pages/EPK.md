@@ -53,11 +53,13 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 </audio>
 
 ## Why book Dirty Power?
-* **High-energy modern country:** A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals.
+* **High-energy modern country:** A setlist packed with pop crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals.
 
-* **Powerful vocals & tight musicianship:** Polished, professional sound with a cohesive band that performs with passion and precision.
+* **Authentic crowd engagement:** Real engagement with audiences that leave a night to remember.
 
-* **Proven live experience:** Our clips show exactly what you get: real Southern electricity and full-room engagement.
+* **Polished & professional musicians:** Tight sound with a cohesive band that performs with passion and precision.
+
+* **Proven live experience:** Experience with performance that guarantees everything will go smoothly.
 
 * **A show customized for you:** Dirty Power reads the room, adjusting setlist, pacing, and energy for all kinds of crowds.
 
@@ -77,7 +79,7 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 
 ## For venues & event planners
 <div class="button-container">
-    <a href="/pages/gallery/" class="button-inverse">Photo Gallery</a>
+    <a href="/pages/gallery.html" class="button-inverse">Photo Gallery</a>
 </div>
 <div class="button-container">
     <a href="/videos/" class="button-inverse">Video Gallery</a>
