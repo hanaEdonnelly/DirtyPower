@@ -11,8 +11,10 @@ jobs:
     steps:
       - name: Trigger GitHub Pages rebuild
         run: |
-          curl --fail --request POST \
+          curl -i \
+            --request POST \
             --url https://api.github.com/repos/hanaEdonnelly/DirtyPower/pages/builds \
-            --header "Authorization: Bearer $USER_TOKEN"
-        env:
-          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+            --header "Authorization: Bearer $USER_TOKEN" \
+            --header "Accept: application/vnd.github+json"
+  env:
+    USER_TOKEN: ${{ secrets.USER_TOKEN }}
