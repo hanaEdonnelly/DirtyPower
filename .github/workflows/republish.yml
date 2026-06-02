@@ -2,7 +2,7 @@ name: Republish
 
 on:
   schedule:
-    - cron: '1 18 * * *'
+    - cron: '1 03 * * *'
   workflow_dispatch:
 
 jobs:
