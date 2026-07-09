@@ -34,7 +34,6 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 <div class="testimonial-card">
     <p><strong>"Tanner Beane & Dirty Power consistently bring a great crowd and deliver high-energy, professional performances. They're easy to work with and a strong draw for our room."</strong><br>-Trey Gaddy, Montreux Bar & Grill</p>
 </div>
-<br>
 
 <div class="testimonial-card">
     <p><strong>"Adding Tanner Beane & Dirty Power to our live music lineup has been one of our best and favorite decisions of 2026. Their playlist? Awesome. Their manners? Impeccable. Their sound, their energy? Addicting and explosive. We couldn’t ask for a more fun local band to spend a Friday night with and always look forward to their next show with us!"</strong><br>-Melissa Szecws, Sapphire's Bar & Grill</p>
