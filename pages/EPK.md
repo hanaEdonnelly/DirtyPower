@@ -39,6 +39,10 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
     <p><strong>"Adding Tanner Beane & Dirty Power to our live music lineup has been one of our best and favorite decisions of 2026. Their playlist? Awesome. Their manners? Impeccable. Their sound, their energy? Addicting and explosive. We couldn’t ask for a more fun local band to spend a Friday night with and always look forward to their next show with us!"</strong><br>-Melissa Szecws, Sapphire's Bar & Grill</p>
 </div>
 
+<div class="testimonial-card">
+    <p><strong>"The staff was discussing Tanner Beane and Dirty Power and they said we've never had a good show; only a great one."</strong><br>-Scottie Fryer, The Windjammer</p>
+</div>
+
 ## Listen to our originals
 <!--<label for="audio-mybad">My Bad</label>
 <audio id="audio-mybad" controls>
