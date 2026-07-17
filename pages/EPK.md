@@ -32,15 +32,15 @@ Whether you’re hosting a festival, bar night, private event, or outdoor concer
 </div>
 <br>
 <div class="testimonial-card">
-    <p><strong>"Tanner Beane & Dirty Power consistently bring a great crowd and deliver high-energy, professional performances. They're easy to work with and a strong draw for our room."</strong><br>-Trey Gaddy, Montreux Bar & Grill</p>
+    <p>"Tanner Beane & Dirty Power consistently bring a great crowd and deliver high-energy, professional performances. They're easy to work with and a strong draw for our room."<br><strong>-Trey Gaddy, Montreux Bar & Grill</strong></p>
 </div>
 
 <div class="testimonial-card">
-    <p><strong>"Adding Tanner Beane & Dirty Power to our live music lineup has been one of our best and favorite decisions of 2026. Their playlist? Awesome. Their manners? Impeccable. Their sound, their energy? Addicting and explosive. We couldn’t ask for a more fun local band to spend a Friday night with and always look forward to their next show with us!"</strong><br>-Melissa Szecws, Sapphire's Bar & Grill</p>
+    <p>"Adding Tanner Beane & Dirty Power to our live music lineup has been one of our best and favorite decisions of 2026. Their playlist? Awesome. Their manners? Impeccable. Their sound, their energy? Addicting and explosive. We couldn’t ask for a more fun local band to spend a Friday night with and always look forward to their next show with us!"<br><strong>-Melissa Szecws, Sapphire's Bar & Grill</strong></p>
 </div>
 
 <div class="testimonial-card">
-    <p><strong>"The staff was discussing Tanner Beane and Dirty Power and they said we've never had a good show; only a great one."</strong><br>-Scottie Fryer, The Windjammer</p>
+    <p>"The staff was discussing Tanner Beane and Dirty Power and they said we've never had a good show; only a great one."<br><strong>-Scottie Fryer, The Windjammer</strong></p>
 </div>
 
 ## Listen to our originals
